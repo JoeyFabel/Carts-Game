@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water1
+  - Water2
+  - Water3
+  - Water4
+  - Water5
+  - Water6
+  - Rock
+  - Cone
+  - BoulderBreaker
+  - Ignore
+  - BelowLand
+  - Player1
+  - Player2
+  - Gravity Flip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Boulders
+  - Item Display
+  - P1 Cam
+  - P2 Cam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

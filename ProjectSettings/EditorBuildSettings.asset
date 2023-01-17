@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scene.unity
+    guid: edebec3821f62f44db49546dfeec722d
+  - enabled: 1
+    path: Assets/Scenes/Practice Scene.unity
+    guid: 6c825a9e4bac2a9409dda27a03bf2165
+  - enabled: 1
+    path: Assets/Scenes/Basic Track.unity
+    guid: f2994795312f0dc43baa739daa67d0d3
+  - enabled: 1
+    path: Assets/Scenes/Desert Track 1.unity
+    guid: 653e2ed5f5347b54a9a65b615dcab216
+  - enabled: 1
+    path: Assets/Scenes/Desert Track 2.unity
+    guid: bfcef51ac4ed602418d862a724dd2d4b
+  - enabled: 1
+    path: Assets/Scenes/Space Track 1.unity
+    guid: 25acfe37f71b8e5428718af5e120434c
+  - enabled: 1
+    path: Assets/Scenes/Space Track 2.unity
+    guid: 54aab07e744dcbb4d92702c6aa0a04db
+  - enabled: 1
+    path: Assets/Scenes/Space Track 3.unity
+    guid: b2edab3beedcfde4094c50312668b85b
+  - enabled: 1
+    path: Assets/Scenes/Space Track 4.unity
+    guid: 77d9e8c8b39b89644b8da6490304fb6b
+  - enabled: 1
+    path: Assets/Scenes/Snow Track 1.unity
+    guid: 7387ebec1d22cf94d95331faa7661316
+  - enabled: 1
+    path: Assets/Scenes/Snow Track 2.unity
+    guid: 4b583f979113ccf458ba0c21739685ab
+  - enabled: 1
+    path: Assets/Scenes/Snow Track 3.unity
+    guid: fdbc2953b1ddaa24d92b1a582eacbc47
+  - enabled: 1
+    path: Assets/Scenes/Snow Track 4.unity
+    guid: 00d502c7c622a8f45a6ce8ddcade7935
+  - enabled: 1
+    path: Assets/Scenes/Outdoor Track 1.unity
+    guid: 8f3bfefc06e182e43b8c1c2ce983b163
+  - enabled: 1
+    path: Assets/Scenes/Outdoor Track 2.unity
+    guid: 033da1ff8c414204fabc92ca706dde1e
+  - enabled: 1
+    path: Assets/Scenes/Outdoor Track 3.unity
+    guid: f97e578fbb5580c4497ce5080c41d85a
+  - enabled: 1
+    path: Assets/Scenes/Outdoor Track 4.unity
+    guid: 0a0ea5d8e5ae2224ead612642efe65ec
+  m_configObjects: {}
